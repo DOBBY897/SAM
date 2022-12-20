@@ -1,4 +1,4 @@
-
+import telegram.ext
 
 TOKEN = "5897888691:AAEuEgscYdvFmctozz79W9aSzyW2Y1kunto"
 
