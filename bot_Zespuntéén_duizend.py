@@ -6,7 +6,9 @@ TOKEN = "5897888691:AAEuEgscYdvFmctozz79W9aSzyW2Y1kunto"
 def start(update, context):
     update.message.reply_text("dit is wel degenlijk een 6.1 bot")
     update.message.reply_text("probeer ook: \n /help --> help \n /info --> info ")
-
+    
+/opt/render/project/src/.venv/bin/python -m pip install --upgrade pip
+    
 
 def help(update, context):
     update.message.reply_text("6.1")
