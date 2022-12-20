@@ -1,6 +1,5 @@
 FROM debian:latest
 	
-pip install gunicorn
 RUN apt update && apt upgrade -y
 RUN apt install git ffmpeg python3-pip -y
 RUN pip3 install -U pip
