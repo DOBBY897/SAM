@@ -1,0 +1,16 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "A Telegram bot to order two euro coins",
+  "main": "nogkeer.py",
+  "scripts": {
+    "start": "python nogkeer.py"
+  },
+  "dependencies": {
+    "python-telegram-bot": "^13.4",
+    "requests": "^2.24.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
